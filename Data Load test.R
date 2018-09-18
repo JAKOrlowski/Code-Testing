@@ -13,6 +13,9 @@ require(stringi)
 options(scipen = 999)
 #require(wesanderson)
 
+
+TESTING GITHUB UPDATES
+
 #Load Reference tables
 setwd("~/Desktop/ILO Industry Validation/")
 ind_mapping_done <- read.delim(file = 'li_isic_industry_mappingxy.txt', sep = '\t', header = TRUE)
